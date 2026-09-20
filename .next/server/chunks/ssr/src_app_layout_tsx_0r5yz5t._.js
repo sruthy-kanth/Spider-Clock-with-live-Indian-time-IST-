@@ -1,0 +1,3 @@
+module.exports=[27572,a=>{"use strict";var b=a.i(7997);a.s(["default",0,function({children:a}){return(0,b.jsx)("html",{lang:"en",children:(0,b.jsx)("body",{className:"antialiased bg-black text-white",children:a})})},"metadata",0,{title:"Spider Clock — Live Indian Standard Time (IST)",description:"An elegant, interactive Spider Clock web application with live IST synchronization, dynamic spider leg inverse kinematics, rotating web gears, and custom themes.",keywords:["Spider Clock","Indian Standard Time","IST Clock","SVG Clock","Interactive Art","Next.js"],authors:[{name:"Spider Clock Team"}]},"viewport",0,{width:"device-width",initialScale:1,maximumScale:1}])},50645,function(a){a.n(a.i(27572))}];
+
+//# sourceMappingURL=src_app_layout_tsx_0r5yz5t._.js.map
